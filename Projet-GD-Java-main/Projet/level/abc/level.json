@@ -1,0 +1,22 @@
+{
+  "blocks": [
+    {
+      "x": 6.0,
+      "y": 1.0,
+      "width": 100.0,
+      "height": 100.0,
+      "index catégorie": 1,
+      "index block": 1,
+      "scale": 1.0
+    },
+    {
+      "x": 0.0,
+      "y": 41.0,
+      "width": 100.0,
+      "height": 100.0,
+      "index catégorie": 1,
+      "index block": 2,
+      "scale": 1.0
+    }
+  ]
+}
